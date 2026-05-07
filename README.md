@@ -1,59 +1,86 @@
-# 😎 Hey! Nice to see you.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B5BDB&height=120&section=header&text=&fontSize=0"/>
 
-Welcome to my page!  
-I'm **Dhanang**, a Data Analytics Consultant from Indonesia 🇮🇩  
-Currently exploring AI, automation, and modern SaaS products.
-
----
-
-## 🚀 Things I work with
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=dhanfbn)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Current Focus
-
-- 📈 Business Intelligence
-- 🤖 AI & Automation
-- ⚡ SaaS Development
-- 🧠 Machine Learning
-
----
-
-## 📂 Featured Projects
-
-| Project | Description |
-|---|---|
-| Analytics Dashboard | KPI & reporting dashboard |
-| AI Productivity Tool | AI workflow assistant |
-| Sales Forecasting | Sales analytics & prediction |
-
----
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/dhanangfabian/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div align="center">
+  <a href="https://linkedin.com/in/dhanangfabiannanda">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B5BDB&center=true&vCenter=true&width=500&lines=data+analyst+by+profession.;full+stack+dev+by+curiosity.;vibe+coder+by+choice.+%E2%9A%A1" alt="Typing SVG" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhanangfabiannanda&style=flat-square&color=3B5BDB&label=visitors" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Indonesia-%F0%9F%87%AE%F0%9F%87%A9-blue?style=flat-square&color=3B5BDB" />
+</div>
+
+---
+
+### hey, i'm dhanang 👋
+
+I turn messy data into clear decisions for a living —  
+and when the clock's off, I build SaaS products with **Next.js**, **AI**, and a little help from **Claude Code**.
+
+> *"I don't write every line of code. I architect the vision, Claude handles the boilerplate."*
+
+Currently building **[Trackd](https://github.com/dhanangfabiannanda)** — a platform that actually connects Sales, Devs, and Managers in one place.
+
+---
+
+### what i work with
+
+**data world** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**build world** &nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**ai playground** &nbsp;
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+### things i've shipped
+
+```
+📦 Trackd          →  SaaS for Sales × Dev × Manager collaboration  [in progress]
+📦 MoM Polisher    →  AI-assisted Minutes of Meeting app             [live]
+📦 NexOps          →  Project management dashboard UI                [live]
+```
+
+---
+
+### stats
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=dhanangfabiannanda&show_icons=true&theme=tokyonight&border_color=3B5BDB&title_color=3B5BDB&icon_color=3B5BDB&hide_border=false&count_private=true&rank_icon=github" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanangfabiannanda&layout=compact&theme=tokyonight&border_color=3B5BDB&title_color=3B5BDB&hide_border=false&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dhanangfabiannanda&theme=tokyonight&border=3B5BDB&ring=3B5BDB&fire=FF6B6B&currStreakLabel=3B5BDB&hide_border=false" />
+</div>
+
+---
+
+### find me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanangfabiannanda)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/#)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/#)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@#)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B5BDB&height=80&section=footer"/>
