@@ -55,7 +55,7 @@ Interactive analytics system for sales reporting and forecasting.
 
 ## 📊 GitHub Stats
 
-[![Dhanang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanfbn)](https://github.com/dhanfbn/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dhanfbn&theme=highcontrast&hide_border=true&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanfbn&layout=compact&theme=tokyonight)
 
