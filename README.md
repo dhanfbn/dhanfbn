@@ -39,21 +39,6 @@ Currently building **[Trackd](https://github.com/dhanangfabiannanda)** — a pla
 📦 NexOps          →  Project management dashboard UI                [live]
 ```
 
----
-
-### stats
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=dhanangfabiannanda&show_icons=true&theme=tokyonight&border_color=3B5BDB&title_color=3B5BDB&icon_color=3B5BDB&hide_border=false&count_private=true&rank_icon=github" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanangfabiannanda&layout=compact&theme=tokyonight&border_color=3B5BDB&title_color=3B5BDB&hide_border=false&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanangfabiannanda&theme=tokyonight&border=3B5BDB&ring=3B5BDB&fire=FF6B6B&currStreakLabel=3B5BDB&hide_border=false" />
-</div>
-
----
-
 ### find me
 
 <div align="center">
@@ -64,5 +49,3 @@ Currently building **[Trackd](https://github.com/dhanangfabiannanda)** — a pla
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@#)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B5BDB&height=80&section=footer"/>
