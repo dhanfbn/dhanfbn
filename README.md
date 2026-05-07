@@ -46,6 +46,11 @@ Currently building **[Trackd](https://github.com/dhanangfabiannanda)** — a pla
 
 ---
 
+### Support me
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](YOUR_KOFI)
+[![Support on Trakteer](https://img.shields.io/badge/Trakteer-Support-red?style=flat-square&logo=trakteer&logoColor=white)](YOUR_TRAKTEER)
+---
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanangfabiannanda)
