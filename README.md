@@ -3,7 +3,7 @@
 ### hey, i'm Dhanang 👋 <img src="https://flagcdn.com/w40/id.png" width="20"/>
 
 I turn messy data into clear decisions for a living —  
-and when the clock's off, I build SaaS products with **Next.js**, **AI**, and a little help from **Claude Code**.
+and when the clock's off, I build SaaS products with **AI**, a little help from **Claude Code**.
 
 > *"I don't write every line of code. I architect the vision, Claude handles the boilerplate."*
 
