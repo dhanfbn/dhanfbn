@@ -1,22 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B5BDB&height=120&section=header&text=&fontSize=0"/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/dhanangfabiannanda">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B5BDB&center=true&vCenter=true&width=500&lines=data+analyst+by+profession.;full+stack+dev+by+curiosity.;vibe+coder+by+choice.+%E2%9A%A1" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanangfabiannanda&style=flat-square&color=3B5BDB&label=visitors" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Indonesia-%F0%9F%87%AE%F0%9F%87%A9-blue?style=flat-square&color=3B5BDB" />
-</div>
-
 ---
 
-### hey, i'm dhanang 👋
+### hey, i'm Dhanang 👋 <img src="https://flagcdn.com/w40/id.png" width="20"/>
 
 I turn messy data into clear decisions for a living —  
 and when the clock's off, I build SaaS products with **Next.js**, **AI**, and a little help from **Claude Code**.
