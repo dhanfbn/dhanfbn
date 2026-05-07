@@ -45,13 +45,15 @@ Currently exploring AI, automation, and modern SaaS products.
 
 ---
 
-## 🌐 Connect with me
-
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
-
----
-
-## ⚡ Fun Fact
-
-Turning raw data into meaningful decisions.
+<div id="badges">
+  <a href="https://www.linkedin.com/in/dhanangfabian/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
