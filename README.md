@@ -1,66 +1,57 @@
-# Hi there 👋 I'm Dhanang
+# 😎 Hey! Nice to see you.
+
+Welcome to my page!  
+I'm **Dhanang**, a Data Analytics Consultant from Indonesia 🇮🇩  
+Currently exploring AI, automation, and modern SaaS products.
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 Things I work with
 
-### Analytics & BI
-![SAP BI](https://img.shields.io/badge/SAP%20BI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### Data & Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📌 Current Focus
-
-- Building modern analytics dashboards
-- Learning machine learning & AI workflows
-- Creating SaaS & productivity products
-- Improving data storytelling & visualization
-
----
-
-## 📂 Featured Projects
-
-### 📊 Analytics Dashboard
-Business dashboard for monitoring KPIs, trends, and operational insights.
-
-**Tech:** Power BI, SQL, Python
-
----
-
-### 🤖 AI Productivity Tool
-AI-powered workflow assistant for improving productivity and task management.
-
-**Tech:** Next.js, OpenAI API, PostgreSQL
-
----
-
-### 📈 Sales Performance Analytics
-Interactive analytics system for sales reporting and forecasting.
-
-**Tech:** Tableau, SQL, Python
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dhanfbn&theme=highcontrast&hide_border=true&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanfbn&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
+## 🔥 Current Focus
 
-- LinkedIn: https://linkedin.com/in/dhanangfabian
+- 📈 Business Intelligence
+- 🤖 AI & Automation
+- ⚡ SaaS Development
+- 🧠 Machine Learning
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+| Analytics Dashboard | KPI & reporting dashboard |
+| AI Productivity Tool | AI workflow assistant |
+| Sales Forecasting | Sales analytics & prediction |
+
+---
+
+## 🌐 Connect with me
+
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: YOUR_PORTFOLIO
+
+---
+
+## ⚡ Fun Fact
+
+Turning raw data into meaningful decisions.
