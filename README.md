@@ -39,7 +39,7 @@ Currently building **[Trackd](https://github.com/dhanangfabiannanda)** — a pla
 📦 NexOps          →  Project management dashboard UI                [live]
 ```
 
-### find me
+---
 
 <div align="center">
 
@@ -47,5 +47,11 @@ Currently building **[Trackd](https://github.com/dhanangfabiannanda)** — a pla
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/#)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/#)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@#)
+
+</div>
+
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=dhanfbn&style=flat-square&color=blue" alt="">
 
 </div>
