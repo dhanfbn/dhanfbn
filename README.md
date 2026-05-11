@@ -35,13 +35,10 @@ Currently building **[Trackd](https://github.com/dhanangfabiannanda)** — a pla
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 ---
-
-### things i've shipped
-
 ```
-📦 Trackd          →  SaaS for Sales × Dev × Manager collaboration  [in progress]
-📦 MoM Polisher    →  AI-assisted Minutes of Meeting app             [live]
-📦 NexOps          →  Project management dashboard UI                [live]
+📦 Trackd            →  SaaS for Sales × Dev × Manager collaboration   [in progress] → request demo is ready
+📦 MoM Polisher      →  AI-assisted Minutes of Meeting app             [in progress]
+📦 e-comm scrapping  →  A command-line web scraper for E-Commers       [in progress]
 ```
 
 ---
