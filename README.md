@@ -38,7 +38,7 @@ Currently building **[Trackd](https://github.com/dhanangfabiannanda)** — a pla
 ```
 📦 Trackd            →  SaaS for Sales × Dev × Manager collaboration   [in progress] → request demo is ready
 📦 MoM Polisher      →  AI-assisted Minutes of Meeting app             [in progress]
-📦 e-comm scrapping  →  A command-line web scraper for E-Commers       [in progress]
+📦 e-comm Scraping   →  A command-line web scraper for E-Comm          [in progress]
 ```
 
 ---
