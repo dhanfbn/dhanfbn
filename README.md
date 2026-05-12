@@ -44,16 +44,16 @@ Currently building **[Trackd](https://github.com/dhanangfabiannanda)** — a pla
 ---
 
 ### Support me
-[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](YOUR_KOFI)
-[![Support on Trakteer](https://img.shields.io/badge/Trakteer-Support-red?style=flat-square&logo=trakteer&logoColor=white)](YOUR_TRAKTEER)
+<!--[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](YOUR_KOFI)-->
+[![Support on Trakteer](https://img.shields.io/badge/Trakteer-Support-red?style=flat-square&logo=trakteer&logoColor=white)](https://trakteer.id/dhanfbn)
 ---
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanangfabiannanda)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/#)
+<!--[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/#)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/#)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@#)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@#)-->
 
 </div>
 
