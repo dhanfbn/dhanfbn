@@ -36,9 +36,10 @@ Currently building **[Trackd](https://github.com/dhanangfabiannanda)** — a pla
 
 ---
 ```
-📦 Trackd            →  SaaS for Sales × Dev × Manager collaboration   [in progress] → request demo is ready
+📦 Trackd            →  SaaS for Sales × Dev × Manager collaboration   [in progress] → Demo on Vercel https://trackd-demo.vercel.app/
 📦 MoM Polisher      →  AI-assisted Minutes of Meeting app             [in progress]
 📦 e-comm Scraping   →  A command-line web scraper for E-Comm          [in progress]
+📦 Report Ngaji      →  Simple Report and tracking student Ngaji       [Complete]    → Link Demo soon
 ```
 
 ---
