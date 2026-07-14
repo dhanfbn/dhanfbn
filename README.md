@@ -3,9 +3,9 @@
 ### hey, i'm Dhanang 👋 <img src="https://flagcdn.com/w40/id.png" width="20"/>
 
 I turn messy data into clear decisions for a living —  
-and when the clock's off, I build SaaS products with **AI**, a little help from **Claude Code**.
+and when the clock's off, I build SaaS products with a little help from **AI**.
 
-> *"I don't write every line of code. I architect the vision, Claude handles the boilerplate."*
+> *"I don't write every line of code. I architect the vision, AI handles the boilerplate."*
 
 Currently building **[Trackd](https://github.com/dhanangfabiannanda)** — a platform that actually connects Sales, Devs, and Managers in one place.
 
